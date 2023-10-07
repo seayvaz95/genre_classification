@@ -25,7 +25,6 @@ def go(config: DictConfig):
 
     # Download step
     if "download" in steps_to_execute:
-
         _ = mlflow.run(
             os.path.join(root_path, "download"),
             "main",
@@ -38,9 +37,6 @@ def go(config: DictConfig):
         )
 
     if "preprocess" in steps_to_execute:
-
-        ## YOUR CODE HERE: call the preprocess step
-        if "preprocess" in steps_to_execute:
         _ = mlflow.run(
             os.path.join(root_path, "preprocess"),
             "main",
@@ -53,9 +49,6 @@ def go(config: DictConfig):
         )
 
     if "check_data" in steps_to_execute:
-
-        ## YOUR CODE HERE: call the check_data step
-        if "check_data" in steps_to_execute:
         _ = mlflow.run(
             os.path.join(root_path, "check_data"),
             "main",
@@ -67,10 +60,6 @@ def go(config: DictConfig):
         )
 
     if "segregate" in steps_to_execute:
-
-        ## YOUR CODE HERE: call the segregate step
-        if "segregate" in steps_to_execute:
-
         _ = mlflow.run(
             os.path.join(root_path, "segregate"),
             "main",
