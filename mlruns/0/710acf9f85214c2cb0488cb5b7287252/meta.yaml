@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/sezin/Desktop/udacity/exercises/cd0581-building-a-reproducible-model-workflow-exercises/lesson-5-final-pipeline-release-and-deploy/exercises/exercise_14/genre_classification/mlruns/0/710acf9f85214c2cb0488cb5b7287252/artifacts
+end_time: 1696693004445
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 710acf9f85214c2cb0488cb5b7287252
+run_name: bedecked-koi-551
+run_uuid: 710acf9f85214c2cb0488cb5b7287252
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696692991850
+status: 3
+tags: []
+user_id: sezin

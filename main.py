@@ -33,6 +33,7 @@ def go(config: DictConfig):
                 "artifact_type": "raw_data",
                 "artifact_description": "Data as downloaded"
             },
+            env_manager='local'
         )
 
     if "preprocess" in steps_to_execute:
@@ -45,6 +46,7 @@ def go(config: DictConfig):
                 "artifact_type": "preprocessed_data",
                 "artifact_description": "Data with preprocessing applied"
             },
+            env_manager='local'
         )
 
     if "check_data" in steps_to_execute:
@@ -56,6 +58,7 @@ def go(config: DictConfig):
                 "sample_artifact": "preprocessed_data.csv:latest",
                 "ks_alpha": config["data"]["ks_alpha"]
             },
+            env_manager='local'
         )
 
     if "segregate" in steps_to_execute:
@@ -69,6 +72,7 @@ def go(config: DictConfig):
                 "test_size": config["data"]["test_size"],
                 "stratify": config["data"]["stratify"]
             },
+            env_manager='local'
         )
 
     if "random_forest" in steps_to_execute:
@@ -91,6 +95,7 @@ def go(config: DictConfig):
                 "val_size": config["data"]["test_size"],
                 "stratify": config["data"]["stratify"]
             },
+            env_manager='local'
         )
 
     if "evaluate" in steps_to_execute:
@@ -103,6 +108,7 @@ def go(config: DictConfig):
                 "model_export": f"{config['random_forest_pipeline']['export_artifact']}:latest",
                 "test_data": "data_test.csv:latest"
             },
+            env_manager='local'
         )
 
 

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/sezin/Desktop/udacity/exercises/cd0581-building-a-reproducible-model-workflow-exercises/lesson-5-final-pipeline-release-and-deploy/exercises/exercise_14/genre_classification/mlruns/0/d67f00559c924d4b98b54bcfc2f2e5ea/artifacts
+end_time: 1696693085864
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d67f00559c924d4b98b54bcfc2f2e5ea
+run_name: capricious-pig-263
+run_uuid: d67f00559c924d4b98b54bcfc2f2e5ea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696693059375
+status: 4
+tags: []
+user_id: sezin

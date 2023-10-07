@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/sezin/Desktop/udacity/exercises/cd0581-building-a-reproducible-model-workflow-exercises/lesson-5-final-pipeline-release-and-deploy/exercises/exercise_14/genre_classification/mlruns/0/a4983984a1d94e209bc4c50eb0c7b76a/artifacts
+end_time: 1696692627900
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a4983984a1d94e209bc4c50eb0c7b76a
+run_name: trusting-mink-704
+run_uuid: a4983984a1d94e209bc4c50eb0c7b76a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696692608506
+status: 3
+tags: []
+user_id: sezin

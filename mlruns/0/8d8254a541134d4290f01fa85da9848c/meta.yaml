@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/sezin/Desktop/udacity/exercises/cd0581-building-a-reproducible-model-workflow-exercises/lesson-5-final-pipeline-release-and-deploy/exercises/exercise_14/genre_classification/mlruns/0/8d8254a541134d4290f01fa85da9848c/artifacts
+end_time: 1696693876010
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8d8254a541134d4290f01fa85da9848c
+run_name: worried-bat-308
+run_uuid: 8d8254a541134d4290f01fa85da9848c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696693861431
+status: 3
+tags: []
+user_id: sezin

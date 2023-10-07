@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/sezin/Desktop/udacity/exercises/cd0581-building-a-reproducible-model-workflow-exercises/lesson-5-final-pipeline-release-and-deploy/exercises/exercise_14/genre_classification/mlruns/0/48ed462a372b4d708f28798c598040b3/artifacts
+end_time: 1696693547775
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 48ed462a372b4d708f28798c598040b3
+run_name: mysterious-lark-627
+run_uuid: 48ed462a372b4d708f28798c598040b3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696693531962
+status: 3
+tags: []
+user_id: sezin

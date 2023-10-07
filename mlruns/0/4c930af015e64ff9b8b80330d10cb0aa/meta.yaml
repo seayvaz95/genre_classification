@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/sezin/Desktop/udacity/exercises/cd0581-building-a-reproducible-model-workflow-exercises/lesson-5-final-pipeline-release-and-deploy/exercises/exercise_14/genre_classification/mlruns/0/4c930af015e64ff9b8b80330d10cb0aa/artifacts
+end_time: 1696693004694
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4c930af015e64ff9b8b80330d10cb0aa
+run_name: painted-deer-323
+run_uuid: 4c930af015e64ff9b8b80330d10cb0aa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696692975696
+status: 4
+tags: []
+user_id: sezin

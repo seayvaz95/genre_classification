@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/sezin/Desktop/udacity/exercises/cd0581-building-a-reproducible-model-workflow-exercises/lesson-5-final-pipeline-release-and-deploy/exercises/exercise_14/genre_classification/mlruns/0/a32a5ee7137547608b25aa0302d5fd0b/artifacts
+end_time: 1696693581732
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a32a5ee7137547608b25aa0302d5fd0b
+run_name: welcoming-bug-204
+run_uuid: a32a5ee7137547608b25aa0302d5fd0b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696693574658
+status: 4
+tags: []
+user_id: sezin

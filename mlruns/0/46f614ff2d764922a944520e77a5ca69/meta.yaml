@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/sezin/Desktop/udacity/exercises/cd0581-building-a-reproducible-model-workflow-exercises/lesson-5-final-pipeline-release-and-deploy/exercises/exercise_14/genre_classification/mlruns/0/46f614ff2d764922a944520e77a5ca69/artifacts
+end_time: 1696692646073
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 46f614ff2d764922a944520e77a5ca69
+run_name: brawny-quail-919
+run_uuid: 46f614ff2d764922a944520e77a5ca69
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696692606250
+status: 4
+tags: []
+user_id: sezin

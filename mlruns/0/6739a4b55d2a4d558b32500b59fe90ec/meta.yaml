@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/sezin/Desktop/udacity/exercises/cd0581-building-a-reproducible-model-workflow-exercises/lesson-5-final-pipeline-release-and-deploy/exercises/exercise_14/genre_classification/mlruns/0/6739a4b55d2a4d558b32500b59fe90ec/artifacts
+end_time: 1696694186614
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6739a4b55d2a4d558b32500b59fe90ec
+run_name: resilient-shark-639
+run_uuid: 6739a4b55d2a4d558b32500b59fe90ec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696694161137
+status: 3
+tags: []
+user_id: sezin

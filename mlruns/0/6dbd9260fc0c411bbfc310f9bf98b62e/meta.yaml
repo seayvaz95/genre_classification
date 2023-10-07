@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/sezin/Desktop/udacity/exercises/cd0581-building-a-reproducible-model-workflow-exercises/lesson-5-final-pipeline-release-and-deploy/exercises/exercise_14/genre_classification/mlruns/0/6dbd9260fc0c411bbfc310f9bf98b62e/artifacts
+end_time: 1696693085615
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6dbd9260fc0c411bbfc310f9bf98b62e
+run_name: grandiose-ox-720
+run_uuid: 6dbd9260fc0c411bbfc310f9bf98b62e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696693072921
+status: 3
+tags: []
+user_id: sezin

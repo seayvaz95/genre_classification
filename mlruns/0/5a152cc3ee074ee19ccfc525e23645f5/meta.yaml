@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/sezin/Desktop/udacity/exercises/cd0581-building-a-reproducible-model-workflow-exercises/lesson-5-final-pipeline-release-and-deploy/exercises/exercise_14/genre_classification/mlruns/0/5a152cc3ee074ee19ccfc525e23645f5/artifacts
+end_time: 1696693531944
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5a152cc3ee074ee19ccfc525e23645f5
+run_name: flawless-sponge-244
+run_uuid: 5a152cc3ee074ee19ccfc525e23645f5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696693517496
+status: 3
+tags: []
+user_id: sezin

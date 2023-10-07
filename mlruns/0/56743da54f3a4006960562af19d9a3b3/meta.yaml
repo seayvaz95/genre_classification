@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/sezin/Desktop/udacity/exercises/cd0581-building-a-reproducible-model-workflow-exercises/lesson-5-final-pipeline-release-and-deploy/exercises/exercise_14/genre_classification/mlruns/0/56743da54f3a4006960562af19d9a3b3/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 56743da54f3a4006960562af19d9a3b3
+run_name: efficient-shrew-885
+run_uuid: 56743da54f3a4006960562af19d9a3b3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696692431587
+status: 1
+tags: []
+user_id: sezin
