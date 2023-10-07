@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/sezin/Desktop/udacity/exercises/cd0581-building-a-reproducible-model-workflow-exercises/lesson-5-final-pipeline-release-and-deploy/exercises/exercise_14/genre_classification/mlruns/0/2cd86a3e66b949f7ada1d9327bd79e3f/artifacts
+end_time: 1696692193328
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2cd86a3e66b949f7ada1d9327bd79e3f
+run_name: judicious-lamb-257
+run_uuid: 2cd86a3e66b949f7ada1d9327bd79e3f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696692187115
+status: 4
+tags: []
+user_id: sezin
